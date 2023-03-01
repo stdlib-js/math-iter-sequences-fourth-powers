@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/math/iter/sequences/fourth-powers"
-click B href "https://github.com/stdlib-js/math-iter-sequences-fourth-powers/tree/main"
-click C href "https://github.com/stdlib-js/math-iter-sequences-fourth-powers/tree/production"
-click D href "https://github.com/stdlib-js/math-iter-sequences-fourth-powers/tree/esm"
-click E href "https://github.com/stdlib-js/math-iter-sequences-fourth-powers/tree/deno"
-click F href "https://github.com/stdlib-js/math-iter-sequences-fourth-powers/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/math/iter/sequences/fourth-powers"
+%% click B href "https://github.com/stdlib-js/math-iter-sequences-fourth-powers/tree/main"
+%% click C href "https://github.com/stdlib-js/math-iter-sequences-fourth-powers/tree/production"
+%% click D href "https://github.com/stdlib-js/math-iter-sequences-fourth-powers/tree/esm"
+%% click E href "https://github.com/stdlib-js/math-iter-sequences-fourth-powers/tree/deno"
+%% click F href "https://github.com/stdlib-js/math-iter-sequences-fourth-powers/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/math/iter/sequences/fourth-powers
