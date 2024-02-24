@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import iterFourthPowersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-fourth-powers@esm/index.mjs';
+import iterFourthPowersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-fourth-powers@v0.2.1-esm/index.mjs';
 ```
 
 #### iterFourthPowersSeq( \[options] )
@@ -139,7 +139,7 @@ var bool = it.next().done;
 <body>
 <script type="module">
 
-import iterFourthPowersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-fourth-powers@esm/index.mjs';
+import iterFourthPowersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-fourth-powers@v0.2.1-esm/index.mjs';
 
 // Create an iterator:
 var opts = {
